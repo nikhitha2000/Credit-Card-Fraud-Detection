@@ -21,3 +21,4 @@ You need to have installed following softwares and libraries in your machine bef
 Gaurav Sharma - Complete work
 ## Acknowledgments
 Applied AI Course
+[![Run on Repl.it](https://repl.it/badge/github/gauravtheP/Credit-Card-Fraud-Detection)](https://repl.it/github/gauravtheP/Credit-Card-Fraud-Detection)
